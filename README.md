@@ -1,2 +1,2 @@
-# c_pre_compiler
-Part function of C pre compiler, including comment removing and macro definition processing.
+# c_preprocessor
+Handle c pre process for language C, including comment removing, macro definition processing, etc.
